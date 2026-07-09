@@ -1,6 +1,6 @@
 # Code with Codespaces
 
-![GitHub Codespaces Banner](https://github.com/user/repo/assets/12345678/codespaces-hero.png)
+![GitHub Codespaces Banner](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*CP2ZCigiQfMeMsZWLhgZGw.png)
 
 **GitHub Codespaces** es un entorno de desarrollo completo alojado en la nube. ¡Desarrolla directamente desde tu navegador sin necesidad de configuraciones locales!
 
@@ -16,7 +16,7 @@
 
 ## ✅ Lo que hicimos en este ejercicio
 
-![Pantalla de creación de Codespace](https://github.com/user/repo/assets/12345678/codespace-creation.png)
+![Pantalla de creación de Codespace](https://nira.com/wp-content/uploads/2021/11/image2-3-878x558.png)
 
 ### 1. Creamos nuestro primer Codespace y modificamos código
 
@@ -24,7 +24,7 @@
 - Lanzamos un Codespace instantáneo.
 - Realizamos cambios en el código y vimos cómo se sincronizan automáticamente.
 
-![Editor VS Code en Codespaces](https://github.com/user/repo/assets/12345678/vscode-in-codespaces.png)
+![Editor VS Code en Codespaces]()
 
 ### 2. Personalizamos nuestro Codespace
 
@@ -33,7 +33,7 @@
 - Definimos puertos forwardeados
 - Personalizamos el entorno con scripts de post-creación
 
-![Devcontainer configuration](https://github.com/user/repo/assets/12345678/devcontainer-config.png)
+![Devcontainer configuration]()
 
 ### 3. Practicamos el uso del Codespace
 
@@ -43,13 +43,13 @@
 - Port forwarding
 - Uso de prebuilds para mayor velocidad
 
-![Terminal y debugging en Codespaces](https://github.com/user/repo/assets/12345678/codespaces-terminal-debug.png)
+![Terminal y debugging en Codespaces]()
 
 ---
 
 ## 🏆 Resultado final
 
-![Codespace personalizado completado](https://github.com/user/repo/assets/12345678/final-codespace.png)
+![Codespace personalizado completado]()
 
 Hemos creado un entorno de desarrollo en la nube totalmente funcional y personalizado.
 
@@ -61,12 +61,4 @@ Hemos creado un entorno de desarrollo en la nube totalmente funcional y personal
 
 ## 📸 Evidencia del desafío completado
 
-![Screenshot del desafío completado](https://github.com/user/repo/assets/12345678/challenge-complete.png)
-
-**¡Comparte tu propio repositorio y captura de pantalla!**
-
----
-
-**Made with ❤️ using GitHub Codespaces**
-
-[![Open in Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/?repo=tu-usuario/tu-repo)
+![Screenshot del desafío completado]()
