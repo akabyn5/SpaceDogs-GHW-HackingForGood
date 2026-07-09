@@ -1,56 +1,49 @@
 # Code with Codespaces
-
 ![GitHub Codespaces Banner](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*CP2ZCigiQfMeMsZWLhgZGw.png)
 
-**GitHub Codespaces** es un entorno de desarrollo completo alojado en la nube. ¡Desarrolla directamente desde tu navegador sin necesidad de configuraciones locales!
+**GitHub Codespaces** is a complete cloud-hosted development environment. Develop directly from your browser with no local setup required!
 
-## 🎯 Sobre este ejercicio
-
-- **Para quién es**: Desarrolladores, Ingenieros DevOps, Managers de Ingeniería y Product Managers.
-- **Qué aprenderás**: Cómo crear, configurar y utilizar un Codespace.
-- **Qué construirás**: Una configuración de Codespace personalizada y adaptada a un repositorio.
-- **Requisitos previos**: Familiaridad con la documentación de Visual Studio Code.
-- **Duración**: Menos de **1 hora**.
+## 🎯 About this Exercise
+- **Who is this for**: Developers, DevOps Engineers, Engineering Managers, and Product Managers.
+- **What you’ll learn**: How to create, configure, and use a Codespace.
+- **What you’ll build**: A customized Codespace configuration tailored to a repository.
+- **Prerequisites**: Familiarity with Visual Studio Code documentation.
+- **Duration**: Less than **1 hour**.
 
 ---
+## ✅ What We Did in This Exercise
 
-## ✅ Lo que hicimos en este ejercicio
+![Codespace Creation Screen](https://github.com/akabyn5/SpaceDogs-GHW-HackingForGood/blob/main/docs/old-submissions/Code%20with%20Codespaces/IMG-20260313-WA0193.jpg?raw=true)
 
-![Pantalla de creación de Codespace](https://github.com/akabyn5/SpaceDogs-GHW-HackingForGood/blob/main/docs/old-submissions/Code%20with%20Codespaces/IMG-20260313-WA0193.jpg?raw=true)
+### 1. Created our first Codespace and modified code
+- Opened the repository in GitHub.
+- Launched an instant Codespace.
+- Made code changes and saw them sync automatically.
 
-### 1. Creamos nuestro primer Codespace y modificamos código
+### 2. Customized our Codespace
+- Configured `.devcontainer/devcontainer.json`
+- Added recommended extensions
+- Defined forwarded ports
+- Customized the environment with post-creation scripts
 
-- Abrimos el repositorio en GitHub.
-- Lanzamos un Codespace instantáneo.
-- Realizamos cambios en el código y vimos cómo se sincronizan automáticamente.
-
-### 2. Personalizamos nuestro Codespace
-
-- Configuramos `.devcontainer/devcontainer.json`
-- Agregamos extensiones recomendadas
-- Definimos puertos forwardeados
-- Personalizamos el entorno con scripts de post-creación
-
-### 3. Practicamos el uso del Codespace
-
-- Terminal integrada
+### 3. Practiced using the Codespace
+- Integrated terminal
 - Debugging
 - Git operations
 - Port forwarding
-- Uso de prebuilds para mayor velocidad
+- Used prebuilds for faster startup
 
 ---
+## 🏆 Final Result
+We have created a fully functional and personalized cloud development environment.
 
-## 🏆 Resultado final
+## 🚀 How to Try It Yourself
+1. Go to the repository
+2. Press `.` (period) or use the button **Code → Codespaces → Create codespace on main**
+3. Explore the environment!
 
-Hemos creado un entorno de desarrollo en la nube totalmente funcional y personalizado.
+## 📸 Challenge Completion Evidence
+![Completed Challenge Screenshot](https://github.com/akabyn5/SpaceDogs-GHW-HackingForGood/blob/main/docs/old-submissions/Code%20with%20Codespaces/IMG-20260313-WA0201.jpg?raw=true)
+```
 
-## 🚀 Cómo probarlo tú mismo
-
-1. Ve al repositorio
-2. Presiona `.` (punto) o usa el botón **Code → Codespaces → Create codespace on main**
-3. ¡Explora el entorno!
-
-## 📸 Evidencia del desafío completado
-
-![Screenshot del desafío completado](https://github.com/akabyn5/SpaceDogs-GHW-HackingForGood/blob/main/docs/old-submissions/Code%20with%20Codespaces/IMG-20260313-WA0201.jpg?raw=true)
+The translation is natural, professional, and maintains the original Markdown formatting and structure.
