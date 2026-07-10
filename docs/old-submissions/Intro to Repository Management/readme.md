@@ -72,12 +72,3 @@ Defined code ownership for different sections of the website:
 ✅ All protection mechanisms are in place  
 ✅ Documentation and guidelines are published  
 ✅ Code ownership is clearly defined  
-
----
-
-**Ready to collaborate?**  
-Clone the repository and follow the contributing guidelines!
-
----
-
-*This repository was prepared as part of the GitHub Skills exercise: Intro to Repository Management.*
